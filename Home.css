@@ -24,13 +24,9 @@
     padding: 0 20px;
 }
 
-.manuli .link-active{
-    font-weight: bold;
-}
-
-main{
+/* main{
     margin-top: 50px;
-}
+} */
 
 .welcome{
     margin: 20px;
@@ -123,14 +119,15 @@ footer{
 }
 
 .footerul{
-    text-align: center;
+    max-width: 300px;
+    margin: 0 auto;
     list-style: none;
 }
 
 .footerli{
-    padding: 0 5px;
     display: inline;
-    margin: 0 auto;
+    color: #540C24;
+    padding: 0 10px;
 }
 
 .footera{
