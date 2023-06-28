@@ -1,0 +1,145 @@
+.logo{
+    float: left;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.navdiv{
+    padding: 10px;
+    background-color: #FCB8AD;
+    border-radius: 20px;
+}
+
+
+.manuul{
+    max-width: 300px;
+    margin: 0 auto;
+    list-style: none;
+}
+
+.manuli{
+    display: inline;
+    color: #540C24;
+    padding: 0 20px;
+}
+
+.manuli .link-active{
+    font-weight: bold;
+}
+
+main{
+    margin-top: 50px;
+}
+
+.welcome{
+    margin: 20px;
+    text-align: center;
+    color: #540C24;
+    font-size: 50px;
+    font-style: italic;
+}
+
+.mes{
+    text-align: center;
+    padding: 20px 50px 10px 50px;
+    font-size: 20px;
+}
+
+.about{
+    margin: 0 auto;
+    display: block;
+    background-color: #F8DFDB;
+    padding: 8px;
+    border-radius: 15px;
+}
+
+.other{
+    margin: 70px 0 0 0 ;
+    text-align: center;
+    color: #540C24;
+    font-size: 50px;
+    font-style: italic;
+}
+
+
+.blog{
+    width: 300px;
+    height: 500px;
+}
+
+
+.bloging{
+    width: 300px;
+    height: 200px;
+
+}
+
+.blogbutton{
+    text-align: center;
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+    background-color: #FCB8AD;
+    padding: 8px;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+.blogdiv{
+    background-color: #F8DFDB;
+    padding: 10px;
+   float: left;
+   margin: 30px 40px;
+   border-radius: 10px;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+   margin-bottom: 80px;
+}
+
+.maindiv{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+.aboutdiv{
+    background-color: rgb(240, 240, 240);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+footer{
+    text-align: center;
+   position: fixed;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   margin-top: 50px;
+   background-color: #FCB8AD;
+   height: 50px;
+}
+
+.footerul{
+    list-style: none;
+}
+
+.footerli{
+    padding: 0 20px;
+    display: inline;
+}
+
+.footera{
+    text-decoration: none;
+    color: #540C24;
+}
+
+a{
+    text-decoration: none;
+    color: #540C24;
+}
+
+.blog1img{
+    margin: 20px auto;
+    display: block;
+}
