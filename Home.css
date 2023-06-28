@@ -89,8 +89,10 @@ main{
 .blogdiv{
     background-color: #F8DFDB;
     padding: 10px;
-   float: left;
-   margin: 30px 40px;
+   display: inline-block;
+   margin: 20px 30px;
+   height: 450px;
+   max-width: 300px;
    border-radius: 10px;
    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
    margin-bottom: 80px;
@@ -121,11 +123,12 @@ footer{
 }
 
 .footerul{
+    text-align: center;
     list-style: none;
 }
 
 .footerli{
-    padding: 0 20px;
+    padding: 0 10px;
     display: inline;
 }
 
